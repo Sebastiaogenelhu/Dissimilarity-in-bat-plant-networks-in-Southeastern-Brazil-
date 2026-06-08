@@ -143,7 +143,7 @@ combined_plot <- (p1 + p3 + p4) +
   plot_annotation(tag_levels = "a") +
   plot_layout(nrow = 1)
 
-# Save in Ecology journal format
+# Save
 ggsave(
   filename = "Figure_3.jpg",
   plot = combined_plot,
@@ -207,7 +207,7 @@ combined_plot2 <- (p5 + p7 + p8) +
   plot_annotation(tag_levels = "a") +
   plot_layout(nrow = 1)
 
-# Save in Ecology journal format
+# Save
 ggsave(filename = "Figure_S3.jpg", plot = combined_plot2, 
        width = 18, height = 10, units = "cm", dpi = 300, device = "jpeg")
 
@@ -264,6 +264,6 @@ combined_plot3 <- (p9 + p11 + p12) +
   plot_annotation(tag_levels = "a") +
   plot_layout(nrow = 1)
 
-# Save in Ecology journal format
+# Save
 ggsave(filename = "Figure_S4.jpg", plot = combined_plot3, 
        width = 18, height = 10, units = "cm", dpi = 300, device = "jpeg")
