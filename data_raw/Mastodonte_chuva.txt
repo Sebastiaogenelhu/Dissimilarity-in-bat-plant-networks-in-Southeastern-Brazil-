@@ -1,0 +1,8 @@
+	Cecropia_glaziovii	Cecropia_pachystachya	Ficus_sp_01	Gurania_lobata	Piper_amalago
+Artibeus_fimbriatus	0	1	1	1	0
+Artibeus_planirostris	0	0	1	1	0
+Carollia_perspicilatta	1	0	0	1	1
+Chiroderma_doriae	0	0	1	0	0
+Chiroderma_villosum	0	0	1	0	0
+Glossophaga_soricina	1	0	0	0	1
+Platyrrhinus_lineatus	0	0	1	0	0

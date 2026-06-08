@@ -1,0 +1,5 @@
+	Gurania_lobata	Maclura_tinctoria	Piper_amalago	Piper_sp_01
+Artibeus_fimbriatus	1	0	0	0
+Carollia_perspicilatta	1	1	1	0
+Glossophaga_soricina	0	0	0	1
+Sturnira_lilium	1	0	0	0

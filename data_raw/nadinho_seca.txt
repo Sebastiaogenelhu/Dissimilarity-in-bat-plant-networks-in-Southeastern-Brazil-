@@ -1,0 +1,3 @@
+	Ficus_aff_gomelleira	Ficus_sp_01	Miconia_spp	Piper_sp_01	Solanum_sp_02
+Artibeus_planirostris	1	1	1	0	1
+Phyllostomus_hastatus	0	0	0	1	0

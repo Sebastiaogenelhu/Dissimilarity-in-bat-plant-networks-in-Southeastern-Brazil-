@@ -1,0 +1,4 @@
+	Cecropia_glaziovii	Ficus_sp_01	Maclura_tinctoria	Piper_amalago	Piper_sp_1	Psidium_spp	Solanum_sp_02
+Artibeus_planirostris	1	1	0	1	0	1	0
+Carollia_brevicauda	0	0	0	0	0	0	1
+Carollia_perspicilatta	0	0	1	1	1	0	1

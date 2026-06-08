@@ -1,0 +1,4 @@
+	Ficus_sp_02	Ficus_sp_01	Gurania_lobata	Piper_umbellatum	Psidium_spp	Solanum_sp_02
+Artibeus_planirostris	1	0	0	0	1	1
+Chiroderma_villosum	0	1	0	0	0	0
+Sturnira_lilium	0	0	1	1	0	0

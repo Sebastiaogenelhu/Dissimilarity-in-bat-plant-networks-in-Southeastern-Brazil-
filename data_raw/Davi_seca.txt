@@ -1,0 +1,5 @@
+	Ficus_sp_01	Psidium_spp
+Artibeus_planirostris	0	1
+Carollia_perspicilatta	1	0
+Glossophaga_soricina	1	0
+Platyrrhinus_lineatus	1	0

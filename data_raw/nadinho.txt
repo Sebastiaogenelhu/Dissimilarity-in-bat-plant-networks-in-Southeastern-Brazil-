@@ -1,0 +1,6 @@
+	Cordiera_sessilis	Ficus_aff_gomelleira	Ficus_sp_01	Gurania_lobata	Miconia_spp	Piper_sp_01	Psidium_spp	Solanum_sp_02	Vismia_spp
+Artibeus_planirostris	1	1	1	1	1	1	0	1	1
+Glossophaga_soricina	0	0	0	0	0	0	0	1	0
+Phyllostomus_hastatus	0	0	0	0	0	1	0	0	0
+Platyrrhinus_lineatus	1	1	0	0	0	0	0	0	0
+Sturnira_lilium	0	0	0	0	0	0	1	0	0

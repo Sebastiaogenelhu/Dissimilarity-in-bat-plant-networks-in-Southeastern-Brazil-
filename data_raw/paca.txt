@@ -1,0 +1,6 @@
+	Gurania_lobata	Maclura_tinctoria	Piper_amalago	Piper_sp_01	Psidium_spp
+Anoura_caudifer	0	0	0	0	1
+Artibeus_fimbriatus	1	0	0	0	0
+Carollia_perspicilatta	1	1	1	0	0
+Glossophaga_soricina	0	0	0	1	0
+Sturnira_lilium	1	0	0	0	0

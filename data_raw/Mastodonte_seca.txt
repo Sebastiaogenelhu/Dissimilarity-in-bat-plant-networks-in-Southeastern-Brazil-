@@ -1,0 +1,2 @@
+	Cecropia_glaziovii	Gurania_lobata	Piper_amalago	Piper_sp_01	Piper_umbellatum	Solanum_americanum
+Carollia_perspicilatta	1	1	1	1	1	1

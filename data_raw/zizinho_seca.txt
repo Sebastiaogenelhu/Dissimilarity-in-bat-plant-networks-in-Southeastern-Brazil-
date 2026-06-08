@@ -1,0 +1,4 @@
+	Ficus_aff_gomelleira	Miconia_spp	Piper_amalago
+Carollia_perspicilatta	0	0	1
+Phyllostomus_discolor	0	1	1
+Vampyressa_pussilla	1	0	0

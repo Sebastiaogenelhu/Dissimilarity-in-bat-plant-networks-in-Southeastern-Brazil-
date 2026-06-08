@@ -1,0 +1,4 @@
+	Ficus_aff_gomelleira	Gurania_lobata	Piper_sp_01	Psidium_spp	Solanum_sp_02
+Artibeus_planirostris	1	0	0	1	1
+Carollia_perspicilatta	0	5	0	0	0
+Glossophaga_soricina	0	0	1	0	0

@@ -1,0 +1,5 @@
+	Ficus_aff_gomelleira	Piper_umbellatum	Solanum_americanum
+Artibeus_planirostris	1	0	0
+Carollia_perspicilatta	0	1	0
+Platyrrhinus_lineatus	1	0	0
+Sturnira_lilium	0	0	1

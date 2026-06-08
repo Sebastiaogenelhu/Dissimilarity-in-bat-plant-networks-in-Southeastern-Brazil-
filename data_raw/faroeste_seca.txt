@@ -1,0 +1,3 @@
+	Cecropia_glaziovii	Ficus_aff_gomelleira	Gurania_lobata	Piper_sp_01	Psidium_spp
+Artibeus_planirostris	0	1	1	0	0
+Carollia_perspicilatta	1	0	1	1	1

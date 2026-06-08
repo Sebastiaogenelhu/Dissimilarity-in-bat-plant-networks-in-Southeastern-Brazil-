@@ -1,0 +1,4 @@
+	Cecropia_glaziovii	Cordiera_sessilis	Ficus_aff_gomelleira	Piper_amalago
+Artibeus_planirostris	0	0	1	0
+Carollia_perspicilatta	0	0	1	1
+Glossophaga_soricina	1	1	0	0

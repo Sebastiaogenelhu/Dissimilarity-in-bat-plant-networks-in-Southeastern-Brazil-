@@ -1,0 +1,6 @@
+	Cecropia_pachystachya	Ficus_sp_01	Gurania_lobata	Maclura_tinctoria	Piper_amalago	Piper_sp_01	Psidium_spp	Solanum_paniculatum	Vismia_spp
+Artibeus_planirostris	0	0	1	0	0	1	1	0	0
+Carollia_perspicilatta	0	1	1	1	1	0	0	1	0
+Glossophaga_soricina	0	0	0	0	0	1	0	0	0
+Micronycteris_microtis	0	0	0	0	0	1	0	0	0
+Platyrrhinus_lineatus	1	1	0	0	0	0	0	0	1

@@ -1,0 +1,3 @@
+	Piper_amalago	Psidium_spp
+Anoura_caudifer	0	1
+Carollia_perspicilatta	1	0

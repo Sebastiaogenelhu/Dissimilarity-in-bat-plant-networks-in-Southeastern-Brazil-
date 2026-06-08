@@ -1,0 +1,5 @@
+	Ficus_aff_gomelleira	Ficus_sp_02	Ficus_sp_01	Piper_amalago	Piper_umbellatum	Psidium_spp	Solanum_spp
+Artibeus_planirostris	1	0	1	0	0	1	0
+Carollia_brevicauda	0	0	0	0	1	0	0
+Carollia_perspicilatta	0	0	0	1	1	0	1
+Platyrrhinus_lineatus	0	1	0	0	0	0	0
